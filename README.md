@@ -5,4 +5,5 @@
 - [SQL-TSQL](https://github.com/musauyumaznotes/SQL/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/SQL%20Server%20ve%20T-SQL%20E%C4%9Fitimleri/ReadMe.md)
 - [EntityFrameworkCore](https://github.com/musauyumaznotes/CSharp/blob/main/Gen%C3%A7ayY%C4%B1ld%C4%B1z/Entity%20Framework%20Core/ReadMe.md)
 - [Design Principles](https://github.com/musauyumaznotes/CSharp/blob/main/Gen%C3%A7ayY%C4%B1ld%C4%B1z/DesignPrinciples/ReadMe.md)
+- [SignalR](https://github.com/musauyumaznotes/CSharp/blob/main/Gen%C3%A7ayY%C4%B1ld%C4%B1z/SignalR%20%C4%B0le%20Run%20Time%20Uygulama/ReadMe.md)
 
