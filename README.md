@@ -5,7 +5,7 @@
 - ### [SQL-TSQL](https://github.com/musauyumaznotes/SQL/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/SQL%20Server%20ve%20T-SQL%20E%C4%9Fitimleri/ReadMe.md)
 - ### [Entity Framework Core](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/README.md)
 - ### [Design Principles](https://github.com/musauyumaznotes/DesignPrinciples/blob/main/README.md)
-- ### [SignalR](https://github.com/musauyumaznotes/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/SignalR%20%C4%B0le%20Run%20Time%20Uygulama/ReadMe.md)
-- ### [gRPC](https://github.com/musauyumaznotes/CSharp/blob/main/Gen%C3%A7ay%20Y%C4%B1ld%C4%B1z/gRPC%20K%C3%BCt%C3%BCphanesi/ReadMe.md)
+- ### [SignalR](https://github.com/musauyumaznotes/SignalR/blob/main/SignalR%20%C4%B0le%20Run%20Time%20Uygulama/ReadMe.md)
+- ### [gRPC](https://github.com/musauyumaznotes/gRPC/blob/main/gRPC%20K%C3%BCt%C3%BCphanesi/ReadMe.md)
 
 ![snake gif](https://github.com/musauyumaznotes/musauyumaznotes/blob/output/github-contribution-grid-snake.svg)
