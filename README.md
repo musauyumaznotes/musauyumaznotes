@@ -9,4 +9,4 @@
 - ### [gRPC](https://github.com/musauyumaznotes/gRPC/blob/main/gRPC%20K%C3%BCt%C3%BCphanesi/ReadMe.md)
 - ### [Özel Ders Formatında A'dan Z'ye C# 10 Programlama Eğitimi](https://github.com/musauyumaznotes/CSharp_10_Programlama_Egitimi/blob/main/README.md)
 
-![snake gif](https://github.com/musauyumaznotes/musauyumaznotes/blob/output/github-contribution-grid-snake.svg)
+
