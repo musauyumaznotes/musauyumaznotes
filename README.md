@@ -16,9 +16,7 @@
 # 📊 GitHub Stats:
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=musauyumaznotes&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-</div>
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musauyumaznotes&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=musauyumaznotes&theme=tokyonight&hide_border=true">
 </div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musauyumaznotes&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt="">
