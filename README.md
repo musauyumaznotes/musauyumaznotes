@@ -19,7 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/username=musauyumaznotes&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=musauyumaznotes&icon=0&color=3)](https://visitcount.itsvg.in) {style=text-align:center}
+[![](https://visitcount.itsvg.in/api?id=musauyumaznotes&icon=0&color=3)](https://visitcount.itsvg.in)
 
 
 
